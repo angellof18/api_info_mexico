@@ -1,0 +1,4542 @@
+
+    {
+        "estado": "Ciudad de M\u00e9xico",
+        "datos": [
+            {
+                "municipio": "\u00c1lvaro Obreg\u00f3n",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "01000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01049",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01109",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01139",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01219",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01276",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01285",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01298",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01299",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01377",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01389",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01408",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01419",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01509",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01538",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01539",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01548",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01549",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01566",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01569",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01588",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01618",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01619",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01708",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01729",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01759",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01789",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01849",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01857",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01859",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "01904",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Azcapotzalco",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "02000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02129",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02459",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02519",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02719",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "02990",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Benito Ju\u00e1rez",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "03000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03103",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03303",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "03940",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Coyoac\u00e1n",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "04000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04318",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04369",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04489",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04519",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04739",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04899",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04909",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04918",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04919",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04929",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04938",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04939",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "04980",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cuajimalpa de Morelos",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "05000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05129",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05219",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05348",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05379",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "05790",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cuauht\u00e9moc",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "06000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "06920",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Gustavo A. Madero",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "07000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07058",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07069",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07109",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07144",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07149",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07187",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07189",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07199",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07268",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07359",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07369",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07469",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07509",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07707",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07708",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07739",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07838",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07839",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07858",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07859",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07869",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07889",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07899",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07918",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07919",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07939",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07969",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07979",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "07990",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Iztacalco",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "08000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "08930",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Iztapalapa",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "09000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09208",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09319",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09359",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09429",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09438",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09479",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09578",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09608",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09637",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09638",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09648",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09689",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09696",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09698",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09708",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09709",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09769",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09819",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09828",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09829",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09837",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09838",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09839",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09849",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09856",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09858",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09859",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09868",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09897",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09969",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "09970",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "La Magdalena Contreras",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "10000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10368",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10369",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10378",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10379",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "10926",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Miguel Hidalgo",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "11000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11489",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11529",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11619",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "11950",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Milpa Alta",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "12000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "12950",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tl\u00e1huac",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "13000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13093",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13094",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13219",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13273",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13319",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13419",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13508",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13509",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13549",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "13700",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tlalpan",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "14000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14049",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14208",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14219",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14248",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14268",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14308",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14377",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14386",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14387",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14388",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14389",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14408",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14409",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14429",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14438",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14439",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14449",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14479",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14608",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14629",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14647",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14657",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14658",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14659",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14737",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14738",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14739",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14748",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14749",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "14900",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Venustiano Carranza",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "15000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15309",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15339",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "15990",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Xochimilco",
+                "ciudad": "Ciudad de M\u00e9xico",
+                "codigos_postales": [
+                    {
+                        "cp": "16000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16029",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16035",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16036",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16038",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16059",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16083",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16428",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16429",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16459",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16617",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16629",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16739",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16749",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16797",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16799",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "16900",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

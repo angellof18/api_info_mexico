@@ -1,0 +1,1834 @@
+
+    {
+        "estado": "Tlaxcala",
+        "datos": [
+            {
+                "municipio": "Tlaxcala",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90006",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90062",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90102",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90111",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90112",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90118",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ixtacuixtla de Mariano Matamoros",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90121",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90122",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90124",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90131",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90132",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90134",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Ana Nopalucan",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90139",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Panotla",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90145",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90151",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90152",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90155",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Totolac",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90170",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tepeyanco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90182",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Isabel Xiloxoxtla",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90194",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Juan Huactzinco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90195",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Calpulalpan",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90202",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90208",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90213",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90218",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90222",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90226",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90231",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90234",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Benito Ju\u00e1rez",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90235",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Hueyotlipan",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90241",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90243",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90245",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90246",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90247",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tlaxco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90251",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90258",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90261",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90262",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90264",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90271",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90273",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90274",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90276",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90278",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nanacamilpa de Mariano Arista",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90283",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90285",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90288",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Espa\u00f1ita",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90291",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90292",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90297",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90298",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Apizaco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90319",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90329",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90337",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90338",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90339",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90341",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90342",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90356",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90358",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90378",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90401",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90402",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90407",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Atlangatepec",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90411",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90418",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mu\u00f1oz de Domingo Arenas",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90421",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90428",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tetla de la Solidaridad",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90432",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90437",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90438",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Xaltocan",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90444",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Lucas Tecopilco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90445",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90447",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90448",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Yauhquemehcan",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90458",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90459",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Xaloztoc",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90470",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tocatl\u00e1n",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90482",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90484",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tzompantepec",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90491",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90493",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90494",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Jos\u00e9 Teacalco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90495",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90497",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90498",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huamantla",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90502",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90508",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90509",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90527",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90535",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Terrenate",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90542",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90544",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "L\u00e1zaro C\u00e1rdenas",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90546",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Emiliano Zapata",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90548",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Atltzayanca",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90556",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90557",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90558",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cuapiaxtla",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90562",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90568",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "El Carmen Tequexquitla",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90576",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90577",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ixtenco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90583",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90584",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90585",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90586",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ziltlalt\u00e9pec de Trinidad S\u00e1nchez Santos",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90592",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90594",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90595",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90596",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Apetatitl\u00e1n de Antonio Carvajal",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90608",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90610",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Amaxac de Guerrero",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90635",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Cruz Tlaxcala",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90653",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cuaxomulco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90660",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Contla de Juan Cuamatzi",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90692",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90693",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tepetitla de Lardiz\u00e1bal",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90700",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nat\u00edvitas",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90712",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90717",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90718",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90721",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90722",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90723",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Apolonia Teacalco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90725",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tetlatlahuca",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90734",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Dami\u00e1n Tex\u00f3loc",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90736",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90737",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Jer\u00f3nimo Zacualpan",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90738",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Zacatelco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90754",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Lorenzo Axocomanitla",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90760",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Catarina Ayometla",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90774",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90775",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Xicohtzinco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90780",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Papalotla de Xicoht\u00e9ncatl",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90791",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90796",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chiautempan",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90802",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90821",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "La Magdalena Tlaltelulco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90835",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Francisco Tetlanohcan",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90845",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Teolocholco",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90855",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Acuamanala de Miguel Hidalgo",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90861",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90864",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Cruz Quilehtla",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90867",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mazatecochco de Jos\u00e9 Mar\u00eda Morelos",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90873",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90875",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90876",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tenancingo",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90883",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90886",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90887",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Pablo del Monte",
+                "ciudad": "Villa Vicente Guerrero",
+                "codigos_postales": [
+                    {
+                        "cp": "90890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90897",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90898",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "90990",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

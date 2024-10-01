@@ -1,0 +1,5337 @@
+    {
+        "estado": "Chiapas",
+        "datos": [
+            {
+                "municipio": "Tuxtla Guti\u00e9rrez",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29025",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29026",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29027",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29028",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29037",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29038",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29044",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29045",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29047",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29049",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29053",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29054",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29055",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29056",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29057",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29058",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29059",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29064",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29065",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29066",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29067",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29073",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29075",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29076",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29077",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29078",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29087",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29094",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29096",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29098",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29112",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Fernando",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29129",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Berrioz\u00e1bal",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29132",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29138",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ocozocoautla de Espinosa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29142",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29143",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29144",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29145",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29146",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29148",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29149",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Suchiapa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29151",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29158",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chiapa de Corzo",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29176",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29183",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Osumacinta",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29191",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29193",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Crist\u00f3bal de las Casas",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29213",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29218",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29242",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29243",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29246",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29247",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29249",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29258",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29264",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29268",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29288",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29292",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29297",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29298",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29299",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29316",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chamula",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29322",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29327",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29328",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29329",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29335",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29336",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29337",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ixtapa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29341",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29342",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29345",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29348",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29349",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Zinacant\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29369",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Acala",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29372",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29374",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29377",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29384",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29385",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29387",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Emiliano Zapata",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29382",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29383",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29386",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chiapilla",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29395",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Lucas",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29405",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Teopisca",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29412",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29419",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29420",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Amatenango del Valle",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29432",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29437",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29438",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29439",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chanal",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29441",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29446",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Oxchuc",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29451",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29461",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29462",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29463",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huixt\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29471",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29472",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29475",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29477",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tenejapa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29481",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29482",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29487",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29489",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mitontic",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29493",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29495",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Reforma",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29508",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29509",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ju\u00e1rez",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29518",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29519",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pichucalco",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29528",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29537",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Sunuapa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29542",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29547",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ostuac\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29556",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29557",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29558",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Francisco Le\u00f3n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29562",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29568",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29569",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ixtacomit\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29571",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29572",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29576",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29578",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29579",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Solosuchiapa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29582",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29583",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29585",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29586",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29587",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29588",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ixtapangajoya",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29593",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29594",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29595",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29596",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29598",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29599",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mezcalapa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29603",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29608",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29609",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tecpat\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29617",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29618",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29619",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Copainal\u00e1",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29627",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29633",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29636",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chicoas\u00e9n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29640",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Coapilla",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29652",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29655",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pantepec",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29661",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29667",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tapalapa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29675",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ocotepec",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29684",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29685",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29686",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29687",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chapultenango",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29691",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29692",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29693",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29694",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29696",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Amat\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29702",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29707",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29708",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huitiup\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29717",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ixhuat\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29721",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29722",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29724",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29729",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tapilula",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29736",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29737",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ray\u00f3n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29744",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29745",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29746",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pueblo Nuevo Solistahuac\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29756",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Rinc\u00f3n Chamula San Pedro",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29759",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jitotol",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29761",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29763",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29764",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29767",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29768",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bochil",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29774",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29775",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29777",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Soyal\u00f3",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29782",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29783",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Juan Cancuc",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29792",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29795",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29796",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29797",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29798",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Sabanilla",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29802",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29814",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29816",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29817",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Simojovel",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29822",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29836",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29837",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Andr\u00e9s Duraznal",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29827",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29828",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29829",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "El Bosque",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29842",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29848",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chalchihuit\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29851",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29852",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29853",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29855",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29856",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29857",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Larr\u00e1inzar",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29861",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29862",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29864",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29866",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santiago el Pinar",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29867",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29868",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29869",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chenalh\u00f3",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29871",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29872",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29873",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29875",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29876",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Aldama",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29877",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29878",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29879",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pantelh\u00f3",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29881",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29883",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29884",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29887",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29888",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Sital\u00e1",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29891",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29897",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29898",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Salto de Agua",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29908",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tila",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29912",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29918",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29919",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tumbal\u00e1",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29921",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29922",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29925",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Yajal\u00f3n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29932",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ocosingo",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29937",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29938",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29939",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29952",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29954",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chil\u00f3n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29942",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29946",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29947",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29948",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29949",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Benem\u00e9rito de las Am\u00e9ricas",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29956",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Marqu\u00e9s de Comillas",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29958",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29959",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Palenque",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29962",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29967",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29968",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29969",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "La Libertad",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29971",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29972",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29977",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Catazaj\u00e1",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "29980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29982",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29988",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "29997",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Comit\u00e1n de Dom\u00ednguez",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30028",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30029",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30033",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30036",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30037",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30038",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30043",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30063",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30064",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30065",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30067",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30068",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30069",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30073",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30074",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30075",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30076",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30077",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30078",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30093",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30096",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30101",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30102",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30103",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30109",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tzimol",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30111",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30116",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chicomuselo",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30121",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30124",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30129",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bella Vista",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30137",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Frontera Comalapa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30143",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30145",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30146",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30148",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30149",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30151",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30152",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30153",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30154",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30155",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "La Trinitaria",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30162",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30168",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "La Independencia",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30172",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30173",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30176",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30178",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Maravilla Tenejapa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30182",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30184",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Las Margaritas",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30187",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30189",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30232",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30240",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Altamirano",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30194",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30197",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Venustiano Carranza",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30202",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30218",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30227",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30315",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Totolapa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30336",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30337",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nicol\u00e1s Ru\u00edz",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30340",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Las Rosas",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30352",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30356",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30358",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "La Concordia",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30362",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30369",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "\u00c1ngel Albino Corzo",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30375",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30378",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30379",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30384",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30385",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30388",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30389",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Montecristo de Guerrero",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30382",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30383",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Socoltenango",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30393",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30394",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30395",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30396",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30397",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cintalapa de Figueroa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30409",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30412",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30422",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30428",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30429",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jiquipilas",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30431",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30437",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30438",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30439",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30441",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30442",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30445",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30447",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30448",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30449",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Arriaga",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30458",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30461",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30462",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30465",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villaflores",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30471",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30472",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30475",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30478",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30479",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30487",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30488",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30491",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30492",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30493",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30495",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30498",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30499",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tonal\u00e1",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30509",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30511",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30519",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villa Corzo",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30527",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30537",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "El Parral",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30528",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30529",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30530",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pijijiapan",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30548",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30549",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30556",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30558",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30559",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mapastepec",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30566",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30568",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30576",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30577",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Acapetahua",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30582",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30583",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30584",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30585",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30586",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30587",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Acacoyagua",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30593",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30594",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30595",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30596",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30597",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Escuintla",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30603",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30617",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villa Comaltitl\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30627",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30633",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30637",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huixtla",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30647",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30648",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30649",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mazat\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30656",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huehuet\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30662",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30677",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tuzant\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30686",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30689",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30693",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30695",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tapachula",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30709",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30718",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30719",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30726",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30729",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30736",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30737",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30738",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30739",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30745",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30747",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30748",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30749",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30757",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30763",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30767",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30768",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30769",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30778",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30779",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30784",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30786",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30787",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30788",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30789",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30792",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30795",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30796",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30797",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30798",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30799",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30802",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30808",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30809",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30812",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30814",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30816",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30817",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30818",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30827",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30828",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30829",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30832",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30836",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30837",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30838",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30839",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Suchiate",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30847",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30849",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Frontera Hidalgo",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30851",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30852",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30853",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30855",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30858",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Metapa",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30861",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30862",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tuxtla Chico",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30866",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30867",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30868",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30869",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30871",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30875",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30876",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30877",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Uni\u00f3n Ju\u00e1rez",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30881",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30883",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30884",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30886",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cacahoat\u00e1n",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30892",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30897",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30898",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Motozintla",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30911",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30918",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30919",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mazapa de Madero",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30927",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Amatenango de la Frontera",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30937",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30946",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bejucal de Ocampo",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30957",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "La Grandeza",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30967",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "El Porvenir",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30975",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30976",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30977",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Siltepec",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30982",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30988",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Honduras de la Sierra",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30992",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30997",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Capit\u00e1n Luis \u00c1ngel Vidal",
+                "ciudad": "Honduras de la Sierra",
+                "codigos_postales": [
+                    {
+                        "cp": "30995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "30996",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

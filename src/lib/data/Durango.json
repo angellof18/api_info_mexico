@@ -1,0 +1,4424 @@
+
+    {
+        "estado": "Durango",
+        "datos": [
+            {
+                "municipio": "Durango",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34027",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34028",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34029",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34038",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34043",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34045",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34046",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34047",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34048",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34049",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34058",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34069",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34074",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34075",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34076",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34077",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34103",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34109",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34124",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34129",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34139",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34143",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34144",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34145",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34146",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34156",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34157",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34158",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34159",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34162",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34175",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34176",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34187",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34189",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34194",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34198",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34199",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34208",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34218",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34219",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34226",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34227",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34228",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34229",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34285",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34298",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34299",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34303",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34304",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34305",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34306",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34307",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34308",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34317",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34345",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34358",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34371",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34375",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34377",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34378",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34383",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34384",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34385",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34386",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34387",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34393",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34394",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34395",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34397",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34398",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Canatl\u00e1n",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34445",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34466",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34467",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nuevo Ideal",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34437",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Coneto de Comonfort",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34475",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34477",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Juan del R\u00edo",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34482",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34487",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34488",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34493",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34495",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34497",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Canelas",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34527",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34537",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Topia",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34548",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34556",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34557",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34566",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34567",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tamazula",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34576",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34577",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34583",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34584",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34585",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34586",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34587",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34588",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34593",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34594",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34595",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34596",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34597",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34598",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santiago Papasquiaro",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34603",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34617",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34627",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34637",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34638",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34639",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34647",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34648",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34649",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ot\u00e1ez",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34651",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34652",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34656",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34657",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34658",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34659",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34668",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34669",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Dimas",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34677",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34684",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34685",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34686",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34687",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34693",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34694",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34695",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34696",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34697",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Guadalupe Victoria",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34707",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34717",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34724",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34726",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34727",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34736",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34737",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pe\u00f1\u00f3n Blanco",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34743",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34744",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34745",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34746",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34747",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34748",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34757",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34763",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34764",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34767",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34768",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "P\u00e1nuco de Coronado",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34774",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34775",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34777",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34782",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34787",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34788",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34795",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Poanas",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34816",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34837",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nombre de Dios",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34842",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34847",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34848",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34855",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34856",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34857",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34864",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34866",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34867",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34873",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34887",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Vicente Guerrero",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34892",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34897",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34898",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "S\u00fachil",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34927",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34937",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pueblo Nuevo",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34942",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34946",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34947",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34948",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34967",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34968",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mezquital",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "34970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34975",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34976",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34977",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34978",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34988",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34996",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "34997",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "G\u00f3mez Palacio",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35025",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35026",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35027",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35028",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35029",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35043",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35044",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35045",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35046",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35047",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35048",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35049",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35054",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35055",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35057",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35058",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35059",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35064",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35065",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35066",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35067",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35068",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35069",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35073",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35074",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35075",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35076",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35077",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35078",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35079",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35101",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35102",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35103",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35109",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35111",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35112",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35121",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35129",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35132",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35139",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35141",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35143",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35144",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35146",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35147",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Lerdo",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35153",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35154",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35155",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35156",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35157",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35158",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35159",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35171",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35173",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35175",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35181",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35182",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35187",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35189",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35191",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35192",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35199",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mapim\u00ed",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35213",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35219",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35222",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35226",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35227",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35241",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35245",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35246",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35247",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35248",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tlahualilo",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35264",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35274",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35297",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Hidalgo",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35317",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35327",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35335",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35336",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35337",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35343",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35344",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35345",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35347",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ocampo",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35356",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35368",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35371",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35374",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35375",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35381",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35383",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35385",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35393",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35395",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Guanacev\u00ed",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35437",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35445",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35447",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Bernardo",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35466",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35467",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35475",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35477",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35493",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35497",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ind\u00e9",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35527",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35547",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Pedro del Gallo",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35556",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35576",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35577",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35584",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35585",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35586",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35593",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35594",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tepehuanes",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35617",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35627",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35633",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35637",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35647",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "El Oro",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35656",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35657",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35677",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35684",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35685",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35686",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35687",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35693",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35694",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35695",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35696",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35697",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35698",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nazas",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35707",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35724",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35726",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35727",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35737",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Luis del Cordero",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35744",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35745",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35746",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35756",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Rodeo",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35763",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35764",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35767",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35774",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35775",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35784",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35786",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35787",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cuencam\u00e9",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35814",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35816",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35817",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35827",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35837",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35847",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35853",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35856",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35857",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35864",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35875",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35876",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35877",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Clara",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35883",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35884",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35886",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35887",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35888",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35896",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Juan de Guadalupe",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35901",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35911",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35922",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35937",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35938",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35942",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35947",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Sim\u00f3n Bol\u00edvar",
+                "ciudad": "General Sim\u00f3n Bol\u00edvar",
+                "codigos_postales": [
+                    {
+                        "cp": "35950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35975",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35977",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "35987",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

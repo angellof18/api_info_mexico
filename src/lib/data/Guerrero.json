@@ -1,0 +1,5916 @@
+
+    {
+        "estado": "Guerrero",
+        "datos": [
+            {
+                "municipio": "Chilpancingo de los Bravo",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39012",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39022",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39025",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39026",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39028",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39029",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39036",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39038",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39043",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39044",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39047",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39048",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39056",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39058",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39068",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39069",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39073",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39074",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39075",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39076",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39077",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39078",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39079",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39085",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39087",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39093",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39094",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39095",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39096",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39097",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39098",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39101",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39102",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39103",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39111",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39112",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39122",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39129",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Heliodoro Castillo",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39131",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39132",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39141",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39142",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39143",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39144",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39145",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39149",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Leonardo Bravo",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39151",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39154",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39155",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39159",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39162",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39169",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tixtla de Guerrero",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39172",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39173",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39175",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39198",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39199",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ayutla de los Libres",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39202",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39208",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39221",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39226",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39227",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "\u00d1uu Savi",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39212",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39218",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39219",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mochitl\u00e1n",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39232",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39241",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39249",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Quechultenango",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39252",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39258",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39261",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39264",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39269",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tecoanapa",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39271",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39272",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39273",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39274",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39281",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39282",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39283",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39288",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39291",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39299",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Acapulco de Ju\u00e1rez",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39412",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39422",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39528",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39589",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39679",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39689",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39699",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39745",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39746",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39747",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39759",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39774",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39787",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39799",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39814",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39859",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39867",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39869",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39887",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39888",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39897",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39898",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39899",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39901",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39908",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39909",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39911",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39918",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39919",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39921",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39922",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39927",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39928",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39931",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39932",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39937",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Juan R. Escudero",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39941",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39942",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39946",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39948",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39949",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39951",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39952",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39958",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39959",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Marcos",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39962",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39967",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39968",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39969",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39971",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39972",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39981",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39982",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39989",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Las Vigas",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "39990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39992",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39996",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "39997",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Iguala de la Independencia",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40011",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40025",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40026",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40027",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40033",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40036",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40044",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40045",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40046",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40053",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40054",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40066",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40067",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40068",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40083",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40095",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40096",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40097",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40101",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40102",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40109",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40111",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40112",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40120",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huitzuco de los Figueroa",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40132",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40141",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40142",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40143",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40151",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40152",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tepecoacuilco de Trujano",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40162",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40171",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40172",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40173",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40174",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Eduardo Neri",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40181",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40182",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40187",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40189",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40191",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40192",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40194",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40199",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Taxco de Alarc\u00f3n",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40211",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40212",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40213",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40221",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40222",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40226",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40227",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40252",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40272",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40273",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40274",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40283",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40301",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40302",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40303",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40305",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40306",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40311",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40312",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40317",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40318",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40319",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40321",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40322",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40327",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40329",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Buenavista de Cu\u00e9llar",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40335",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40336",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40337",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40338",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40341",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40342",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40348",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40351",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40352",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40355",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tetipac",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40362",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40371",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40374",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40376",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pilcaya",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40381",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40382",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40383",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40387",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40391",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40392",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40394",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40395",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40396",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40397",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40398",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Teloloapan",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40402",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40408",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40409",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40412",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40418",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40421",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40422",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40428",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40429",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ixcateopan de Cuauht\u00e9moc",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40431",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40441",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40451",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40453",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pedro Ascencio Alquisiras",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40461",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40466",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40469",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40471",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40472",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40477",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40479",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Canuto A. Neri",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40482",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40487",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40488",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40489",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40491",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40497",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40498",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Arcelia",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40502",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40508",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40509",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40511",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40512",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40518",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40521",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40522",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40528",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Apaxtla",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40531",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40532",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40537",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40538",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40539",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40541",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40542",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40548",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40549",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40551",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40552",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40553",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cuetzala del Progreso",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40561",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40562",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40568",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40571",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40572",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40574",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cocula",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40581",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40582",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40583",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40584",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40585",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40586",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40591",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40592",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40593",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40595",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40596",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40597",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40598",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40599",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tlapehuala",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40602",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40603",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40621",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cutzamala de Pinz\u00f3n",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40631",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40632",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40633",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40638",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40639",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40642",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40647",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40648",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40649",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40652",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40657",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40658",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40659",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pungarabato",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40661",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40662",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40671",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40672",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40677",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40678",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tlalchapa",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40681",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40682",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40684",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40686",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40687",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40688",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40689",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40691",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40692",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40693",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40695",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40696",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Coyuca de Catal\u00e1n",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40701",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40702",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40708",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40709",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40711",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40712",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40717",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40727",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40729",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ajuchitl\u00e1n del Progreso",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40731",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40732",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40736",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40737",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40741",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40744",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40745",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40746",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40747",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40748",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40751",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40757",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40758",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Zir\u00e1ndaro",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40761",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40762",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40764",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40767",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40768",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40769",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40771",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40772",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40775",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Miguel Totolapan",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40781",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40782",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40784",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40786",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40788",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40789",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40791",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40792",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40795",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40796",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40797",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40798",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40799",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "La Uni\u00f3n de Isidoro Montes de Oca",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40802",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40811",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40812",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40814",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40816",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40827",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40828",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40829",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Petatl\u00e1n",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40831",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40832",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40836",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40837",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40841",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40847",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40849",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40852",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40853",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40855",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40857",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40859",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Coahuayutla de Jos\u00e9 Mar\u00eda Izazaga",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40864",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40866",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40867",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40873",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40875",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Zihuatanejo de Azueta",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40881",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40882",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40883",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40886",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40888",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40889",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40892",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40897",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "T\u00e9cpan de Galeana",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40908",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40909",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40912",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40919",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40922",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40928",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40929",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Atoyac de \u00c1lvarez",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40932",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40937",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40938",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40939",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40941",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40942",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40947",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40951",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40952",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40958",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Benito Ju\u00e1rez",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40961",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40962",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40967",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40968",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Coyuca de Ben\u00edtez",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "40970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40972",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40976",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40977",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40978",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40981",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40982",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40988",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40989",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40992",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "40997",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Olinal\u00e1",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41002",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41003",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41004",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41005",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41006",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41007",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41025",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41026",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41027",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41028",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Atenango del R\u00edo",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41031",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41032",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41033",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41040",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Copalillo",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41061",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41062",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41063",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41077",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41078",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cual\u00e1c",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41083",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41084",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41085",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41087",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41091",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41092",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41093",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chilapa de \u00c1lvarez",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41103",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41109",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41118",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jos\u00e9 Joaqu\u00edn de Herrera",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41122",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41124",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41127",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ahuacuotzingo",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41144",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41145",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41146",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41153",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41154",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41156",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41157",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Zitlala",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41161",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41171",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41172",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41173",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41179",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "M\u00e1rtir de Cuilapan",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41191",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41194",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41198",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41199",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huamuxtitl\u00e1n",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41202",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41222",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41230",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Xochihuehuetl\u00e1n",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41241",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41251",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41260",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Alpoyeca",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41272",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41280",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tlapa de Comonfort",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41302",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41303",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41304",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41305",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41311",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41312",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41322",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41327",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41328",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41331",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41348",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41349",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tlalixtaquilla de Maldonado",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41352",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41356",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Xalpatl\u00e1huac",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41381",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41383",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41384",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41391",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41392",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Zapotitl\u00e1n Tablas",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41402",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41408",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Acatepec",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41422",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41428",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41437",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41438",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41439",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Atlixtac",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41441",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41442",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41451",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41452",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41461",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41462",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41463",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Copanatoyac",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41471",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41481",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41491",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41498",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41499",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Malinaltepec",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41523",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Cruz del Rinc\u00f3n",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41527",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Iliatenco",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41537",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41538",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tlacoapa",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41541",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41542",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41551",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41552",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41560",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Atlamajalcingo del Monte",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41576",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Luis Acatl\u00e1n",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41603",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41608",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41617",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41633",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41637",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41638",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Metlat\u00f3noc",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41656",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41657",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41658",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cochoapa el Grande",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41668",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41669",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Alcozauca de Guerrero",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41671",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41677",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41678",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41679",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41681",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41682",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41688",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41695",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ometepec",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41701",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41702",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41711",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41721",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41726",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41729",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41731",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41736",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tlacoachistlahuaca",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41741",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41742",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41743",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41761",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41762",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41763",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41769",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Xochistlahuaca",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41771",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41772",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41774",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41775",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41777",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41778",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41781",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41782",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41790",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Florencio Villarreal",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41811",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41821",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41828",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41829",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41830",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cuautepec",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41841",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41842",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41851",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41852",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41860",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Copala",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41872",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41873",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41875",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41879",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41887",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41892",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Azoy\u00fa",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41917",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Juchit\u00e1n",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41922",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41927",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41928",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Marquelia",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41937",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cuajinicuilapa",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41946",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41947",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41948",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41949",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41951",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41952",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41958",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Nicol\u00e1s",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41968",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Igualapa",
+                "ciudad": "Igualapa",
+                "codigos_postales": [
+                    {
+                        "cp": "41970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41996",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41997",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "41998",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

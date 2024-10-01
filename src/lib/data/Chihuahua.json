@@ -1,0 +1,4795 @@
+    {
+        "estado": "Chihuahua",
+        "datos": [
+            {
+                "municipio": "Chihuahua",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31029",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31054",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31063",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31064",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31065",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31066",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31067",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31074",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31075",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31076",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31122",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31124",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31143",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31144",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31146",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31153",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31184",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31213",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31304",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31375",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31384",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31385",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31622",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31627",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31628",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31631",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31632",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31633",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cuauht\u00e9moc",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31512",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31522",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31527",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31528",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31529",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31532",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31542",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31552",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31572",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31579",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31608",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31611",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31612",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31615",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Riva Palacio",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31647",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Aquiles Serd\u00e1n",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31652",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31657",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bach\u00edniva",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31671",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31672",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31677",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Guerrero",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31681",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31684",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31685",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31686",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31687",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31688",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31689",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31691",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31693",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31694",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31695",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31696",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31697",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31698",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31699",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nuevo Casas Grandes",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31719",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31758",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31777",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31778",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31789",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31810",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ascensi\u00f3n",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31821",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31822",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31828",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31829",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31831",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31832",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31837",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Janos",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31842",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31847",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31848",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31849",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Casas Grandes",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31851",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31855",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31856",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31857",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31858",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31859",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31861",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31862",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31863",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Galeana",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31874",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Buenaventura",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31881",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31883",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31884",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31886",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31891",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31897",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31898",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31899",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "G\u00f3mez Far\u00edas",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31901",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31908",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31911",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31915",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ignacio Zaragoza",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31921",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31922",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31927",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31928",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31931",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31933",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Madera",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31942",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31958",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31959",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Namiquipa",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31962",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31967",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31975",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31976",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31977",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31978",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31979",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tem\u00f3sachic",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31987",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Matach\u00ed",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "31990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31991",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31992",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31996",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "31997",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ju\u00e1rez",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "32000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32109",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32153",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32159",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32299",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32317",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32319",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32349",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32389",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32398",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32401",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32402",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32408",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32409",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32419",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32422",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32437",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32439",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32448",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32449",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32451",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32452",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32459",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32469",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32471",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32472",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32509",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32519",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32528",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32537",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32538",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32539",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32548",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32557",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32576",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32577",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32579",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32583",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32584",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32585",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32586",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32587",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32594",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32598",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32599",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32617",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32618",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32628",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32629",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32647",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32648",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32649",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32651",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32652",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32658",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32659",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32662",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32668",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32677",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32679",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32685",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32688",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32692",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32693",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32694",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32695",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32696",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32697",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32698",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32699",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32702",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32721",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32722",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32724",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32737",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Guadalupe",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "32740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32741",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32742",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32743",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32758",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32767",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32774",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32777",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Praxedis G. Guerrero",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "32780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32789",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32797",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ahumada",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "32800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32812",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32814",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32816",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32818",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32832",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32847",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Coyame del Sotol",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "32850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32853",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32854",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ojinaga",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "32880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32882",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32883",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32884",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32886",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32887",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32888",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32889",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32891",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32897",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Aldama",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "32900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32912",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32918",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32932",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32939",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32947",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32948",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32949",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Julimes",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "32950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32951",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32952",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32958",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Manuel Benavides",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "32980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32992",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32996",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32997",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "32998",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Delicias",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33029",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33038",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33058",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33059",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33063",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33065",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33066",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33067",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33068",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33069",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33076",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33077",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33078",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33084",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33085",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33087",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33088",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33093",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33103",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33117",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Rosales",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33124",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33128",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Meoqui",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33131",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33132",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33139",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Dr. Belisario Dom\u00ednguez",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33142",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33145",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33146",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33148",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Satev\u00f3",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33151",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33153",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33154",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33155",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33156",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33157",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33158",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33159",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Francisco de Borja",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33167",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nonoava",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33173",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33179",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Guachochi",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33184",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33187",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33194",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33198",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bocoyna",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33201",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33202",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33226",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33227",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33228",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33237",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cusihuiriachi",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33245",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33247",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33248",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33251",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33252",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33259",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Gran Morelos",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33261",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33262",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33264",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33268",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33269",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Isabel",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33273",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33274",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33276",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33277",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Carich\u00ed",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33281",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33283",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33285",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33288",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33297",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33298",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33299",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Uruachi",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33301",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33303",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33304",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33305",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33306",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33307",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33309",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33318",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ocampo",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33327",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33335",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33336",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33337",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Moris",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33356",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ch\u00ednipas",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33367",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Maguarichi",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33372",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33375",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33379",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Guazapares",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33383",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33384",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33385",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33387",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33393",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33394",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33397",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33398",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Batopilas de Manuel G\u00f3mez Mor\u00edn",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33408",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33418",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33419",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Urique",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33421",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33422",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33431",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33432",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33444",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Morelos",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33451",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33452",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33466",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33467",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Guadalupe y Calvo",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33475",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33477",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33487",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33488",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33493",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33495",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33497",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33498",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Francisco del Oro",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33517",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Rosario",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33531",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33537",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33538",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33539",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huejotit\u00e1n",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33547",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "El Tule",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33551",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33555",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Balleza",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33566",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33576",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33577",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa B\u00e1rbara",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33583",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33584",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33585",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33586",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33587",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33593",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33594",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33595",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33596",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33597",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Camargo",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33601",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33618",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33737",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33739",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33748",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33749",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33759",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33768",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33769",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33777",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33778",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33779",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Saucillo",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33627",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33633",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33637",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33647",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Valle de Zaragoza",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33651",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33652",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33656",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33669",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "La Cruz",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33671",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33677",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33679",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Francisco de Conchos",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33681",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33682",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33687",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33693",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Hidalgo del Parral",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33814",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33816",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33818",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33827",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33839",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33848",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33856",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33857",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33858",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33873",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33879",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33884",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33886",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33898",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33908",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33918",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Allende",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33922",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33928",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33929",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33939",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "L\u00f3pez",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33946",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33947",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33957",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Matamoros",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33961",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33962",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33969",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jim\u00e9nez",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33975",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33976",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33977",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33978",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33987",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Coronado",
+                "ciudad": "Coronado",
+                "codigos_postales": [
+                    {
+                        "cp": "33990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33991",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33992",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33996",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "33997",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

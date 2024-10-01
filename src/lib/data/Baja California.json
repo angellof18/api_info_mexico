@@ -1,0 +1,2008 @@
+
+    {
+        "estado": "Baja California",
+        "datos": [
+            {
+                "municipio": "Mexicali",
+                "ciudad": "San Quint\u00edn",
+                "codigos_postales": [
+                    {
+                        "cp": "21000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21038",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21079",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21139",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21219",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21226",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21229",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21258",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21285",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21297",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21298",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21299",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21307",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21309",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21327",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21337",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21339",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21356",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21378",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21379",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21383",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21384",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21385",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21386",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21387",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21389",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21394",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21395",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21396",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21397",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21398",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21399",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21611",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21627",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21628",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21722",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21731",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21738",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21742",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21743",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21801",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21802",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21821",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21831",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21832",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21841",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21911",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21912",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21921",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21951",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21961",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21980",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tecate",
+                "ciudad": "San Quint\u00edn",
+                "codigos_postales": [
+                    {
+                        "cp": "21400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21432",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21442",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21447",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21448",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21449",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21452",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21462",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21472",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21477",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21478",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21482",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21508",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21511",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21519",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21573",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Felipe",
+                "ciudad": "San Quint\u00edn",
+                "codigos_postales": [
+                    {
+                        "cp": "21850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21853",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "21855",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tijuana",
+                "ciudad": "San Quint\u00edn",
+                "codigos_postales": [
+                    {
+                        "cp": "22000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22025",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22035",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22044",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22045",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22046",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22054",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22055",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22056",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22124",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22194",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22226",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22245",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22246",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22335",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22439",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22537",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22557",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22566",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22637",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22647",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22667",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Playas de Rosarito",
+                "ciudad": "San Quint\u00edn",
+                "codigos_postales": [
+                    {
+                        "cp": "22700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22707",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22717",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22744",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22745",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22746",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ensenada",
+                "ciudad": "San Quint\u00edn",
+                "codigos_postales": [
+                    {
+                        "cp": "22750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22756",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22758",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22762",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22767",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22771",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22795",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22796",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22797",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22798",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22812",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22814",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22818",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22819",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22822",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22839",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22842",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22847",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22852",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22855",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22859",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22873",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22879",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22888",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22889",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22897",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22898",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22908",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22909",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Quint\u00edn",
+                "ciudad": "San Quint\u00edn",
+                "codigos_postales": [
+                    {
+                        "cp": "22910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22937",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22951",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22952",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22967",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "22997",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

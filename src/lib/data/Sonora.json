@@ -1,0 +1,4394 @@
+
+    {
+        "estado": "Sonora",
+        "datos": [
+            {
+                "municipio": "Hermosillo",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83029",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83067",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83068",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83078",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83079",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83103",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83139",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83143",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83144",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83145",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83146",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83148",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83149",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83156",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83157",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83159",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83171",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83173",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83175",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83176",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83208",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83229",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83243",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83245",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83246",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83247",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83248",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83249",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83283",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83285",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83288",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83297",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83299",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83303",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83304",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83305",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83306",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83307",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83309",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83317",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83327",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83328",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83335",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83336",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83337",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83338",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83342",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83343",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83344",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83348",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83349",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83356",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83357",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Miguel de Horcasitas",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83374",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83375",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83377",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83378",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Carb\u00f3",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83383",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83384",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83385",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83386",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83393",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83394",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83395",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83396",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83397",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83398",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Luis R\u00edo Colorado",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83419",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83439",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83447",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83448",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83449",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83458",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83459",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83479",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83487",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83488",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83489",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83497",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83498",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83499",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83540",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Puerto Pe\u00f1asco",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83556",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83557",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83566",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83567",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Plutarco El\u00edas Calles",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83576",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83577",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83583",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83584",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83585",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83586",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83590",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Caborca",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83621",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83693",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83695",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83717",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83718",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83724",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83727",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83740",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Altar",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83756",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83757",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83767",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83784",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83786",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83795",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83796",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83797",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tubutama",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83801",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83817",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83818",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Atil",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83837",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Oquitoa",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83840",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "S\u00e1ric",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83890",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Benjam\u00edn Hill",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83927",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Trincheras",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83931",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83937",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pitiquito",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "83960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83961",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83981",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "83990",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nogales",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84009",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84035",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84046",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84047",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84048",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84055",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84062",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84063",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84064",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84065",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84066",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84067",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84068",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84069",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84074",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84075",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84076",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84085",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84093",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84094",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84103",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84118",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Imuris",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84124",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84137",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Cruz",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84150",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Magdalena",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84171",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84173",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84175",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84176",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84178",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Naco",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84184",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84187",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84194",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84197",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Agua Prieta",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84212",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84213",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84303",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84304",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84305",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84306",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84307",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84317",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Fronteras",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84327",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84328",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84335",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84336",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nacozari de Garc\u00eda",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84345",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84348",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84349",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bavispe",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84374",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84375",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84377",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bacerac",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84393",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84394",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84395",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84396",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84397",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huachinera",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84427",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "N\u00e1cori Chico",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84445",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84447",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84459",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Granados",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84460",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bacad\u00e9huachi",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84493",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84495",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84496",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cumpas",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84527",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Hu\u00e1sabas",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84536",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Moctezuma",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84566",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84576",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villa Hidalgo",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84583",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Ana",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84601",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84602",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84603",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84617",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cananea",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84622",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84633",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84637",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Arizpe",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84656",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84657",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cucurpe",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84677",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bacoachi",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84693",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84694",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84695",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Pedro de la Cueva",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84709",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84711",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Divisaderos",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84743",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84744",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84745",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84746",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84747",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tepache",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84760",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villa Pesqueira",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84775",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84790",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Opodepe",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84850",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Hu\u00e9pac",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84864",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84874",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ban\u00e1michi",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84895",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ures",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84911",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84918",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84919",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Aconchi",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84928",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84929",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84935",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bavi\u00e1cora",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84958",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Felipe de Jes\u00fas",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84969",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ray\u00f3n",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "84980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84988",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "84990",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cajeme",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85037",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85038",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85053",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85059",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85063",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85064",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85065",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85095",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85096",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85097",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85098",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85149",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85154",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85157",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85194",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85198",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85199",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85208",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85212",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85213",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85218",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85219",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Navojoa",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85222",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85226",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85227",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85228",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85229",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85232",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85827",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85864",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85896",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huatabampo",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85241",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85243",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85245",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85246",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85247",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85248",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85249",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85251",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85252",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85258",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85937",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85938",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85967",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85968",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85977",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85994",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "B\u00e1cum",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85268",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85276",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85278",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Etchojoa",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85283",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85285",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85288",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Benito Ju\u00e1rez",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85297",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85298",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Empalme",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85319",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85338",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85339",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85349",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85385",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85386",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85388",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85389",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85397",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85398",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85399",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85537",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Guaymas",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85409",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85447",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85448",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85467",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85477",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85488",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85489",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85499",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85508",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85513",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Ignacio R\u00edo Muerto",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85518",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85519",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "La Colorada",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85549",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85556",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mazat\u00e1n",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85575",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Suaqui Grande",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85580",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Sahuaripa",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85608",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85618",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Javier",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85620",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Soyopa",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85641",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85656",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bacanora",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85676",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Arivechi",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85681",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85695",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Rosario",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85717",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Quiriego",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85736",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85737",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "\u00d3navas",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85746",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85748",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "\u00c1lamos",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85764",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85767",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85771",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85772",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85774",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85775",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85777",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85778",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85779",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Y\u00e9cora",
+                "ciudad": "Huatabampo",
+                "codigos_postales": [
+                    {
+                        "cp": "85780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85786",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85788",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85789",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85795",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85796",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85797",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "85798",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

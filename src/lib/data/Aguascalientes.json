@@ -1,0 +1,1544 @@
+
+    {
+        "estado": "Aguascalientes",
+        "datos": [
+            {
+                "municipio": "Aguascalientes",
+                "ciudad": "Jes\u00fas Mar\u00eda",
+                "codigos_postales": [
+                    {
+                        "cp": "20000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20029",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20049",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20059",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20064",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20078",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20124",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20129",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20146",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20149",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20157",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20158",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20159",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20172",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20175",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20198",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20199",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20208",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20218",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20219",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20229",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20247",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20248",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20249",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20264",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20268",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20276",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20283",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20285",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20288",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20297",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20298",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20299",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20328",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20329",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20341",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20342",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20343",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20344",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20345",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20348",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20349",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20369",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20371",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20372",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20374",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20375",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20377",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20378",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20384",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20386",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20388",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20389",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20392",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20393",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20394",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20395",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20396",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Francisco de los Romo",
+                "ciudad": "Jes\u00fas Mar\u00eda",
+                "codigos_postales": [
+                    {
+                        "cp": "20300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20303",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20304",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20305",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20306",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20356",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20358",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "El Llano",
+                "ciudad": "Jes\u00fas Mar\u00eda",
+                "codigos_postales": [
+                    {
+                        "cp": "20330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20335",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20336",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20337",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20338",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20339",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Rinc\u00f3n de Romos",
+                "ciudad": "Jes\u00fas Mar\u00eda",
+                "codigos_postales": [
+                    {
+                        "cp": "20400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20437",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20454",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cos\u00edo",
+                "ciudad": "Jes\u00fas Mar\u00eda",
+                "codigos_postales": [
+                    {
+                        "cp": "20460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20462",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20466",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20467",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20468",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20469",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20472",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20478",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Jos\u00e9 de Gracia",
+                "ciudad": "Jes\u00fas Mar\u00eda",
+                "codigos_postales": [
+                    {
+                        "cp": "20500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20508",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20538",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20576",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tepezal\u00e1",
+                "ciudad": "Jes\u00fas Mar\u00eda",
+                "codigos_postales": [
+                    {
+                        "cp": "20600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20602",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20603",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20622",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20637",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20656",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20657",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20658",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20659",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pabell\u00f3n de Arteaga",
+                "ciudad": "Jes\u00fas Mar\u00eda",
+                "codigos_postales": [
+                    {
+                        "cp": "20663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20668",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20677",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20678",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20684",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20686",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20687",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Asientos",
+                "ciudad": "Jes\u00fas Mar\u00eda",
+                "codigos_postales": [
+                    {
+                        "cp": "20700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20708",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20709",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20712",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20721",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20722",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20724",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20727",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20729",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20736",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20737",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20739",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20741",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20742",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20744",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20746",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20748",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20749",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20768",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20782",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20795",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20796",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20799",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Calvillo",
+                "ciudad": "Jes\u00fas Mar\u00eda",
+                "codigos_postales": [
+                    {
+                        "cp": "20800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20802",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20816",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20832",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20836",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20842",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20852",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20855",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20856",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20862",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20864",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20872",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20882",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jes\u00fas Mar\u00eda",
+                "ciudad": "Jes\u00fas Mar\u00eda",
+                "codigos_postales": [
+                    {
+                        "cp": "20900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20901",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20908",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20909",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20922",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20927",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20928",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20947",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20996",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "20997",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

@@ -1,0 +1,1276 @@
+
+    {
+        "estado": "Quintana Roo",
+        "datos": [
+            {
+                "municipio": "Oth\u00f3n P. Blanco",
+                "ciudad": "Oth\u00f3n P. Blanco",
+                "codigos_postales": [
+                    {
+                        "cp": "77000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77012",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77025",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77026",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77027",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77028",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77029",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77035",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77036",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77037",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77038",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77041",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77048",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77049",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77053",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77059",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77079",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77082",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77083",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77084",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77085",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77098",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77959",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77962",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77976",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77977",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77992",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77997",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Felipe Carrillo Puerto",
+                "ciudad": "Oth\u00f3n P. Blanco",
+                "codigos_postales": [
+                    {
+                        "cp": "77100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77121",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77144",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77148",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77175",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77176",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77229",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77249",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77259",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "L\u00e1zaro C\u00e1rdenas",
+                "ciudad": "Oth\u00f3n P. Blanco",
+                "codigos_postales": [
+                    {
+                        "cp": "77300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77302",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77303",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77304",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77305",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77306",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77307",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77368",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77369",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77377",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77378",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77384",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77385",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77386",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Isla Mujeres",
+                "ciudad": "Oth\u00f3n P. Blanco",
+                "codigos_postales": [
+                    {
+                        "cp": "77400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77402",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77408",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77409",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77420",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Benito Ju\u00e1rez",
+                "ciudad": "Oth\u00f3n P. Blanco",
+                "codigos_postales": [
+                    {
+                        "cp": "77500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77508",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77509",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77518",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77519",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77527",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77528",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77537",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77538",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77539",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77569",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Puerto Morelos",
+                "ciudad": "Oth\u00f3n P. Blanco",
+                "codigos_postales": [
+                    {
+                        "cp": "77580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77586",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77590",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cozumel",
+                "ciudad": "Oth\u00f3n P. Blanco",
+                "codigos_postales": [
+                    {
+                        "cp": "77600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77622",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77689",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Solidaridad",
+                "ciudad": "Oth\u00f3n P. Blanco",
+                "codigos_postales": [
+                    {
+                        "cp": "77710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77712",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77717",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77718",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77724",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77726",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77727",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77728",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77750",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tulum",
+                "ciudad": "Oth\u00f3n P. Blanco",
+                "codigos_postales": [
+                    {
+                        "cp": "77760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77762",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77763",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77764",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77768",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77772",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77774",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77786",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77795",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77796",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jos\u00e9 Mar\u00eda Morelos",
+                "ciudad": "Oth\u00f3n P. Blanco",
+                "codigos_postales": [
+                    {
+                        "cp": "77800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77808",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77809",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77858",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77859",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77875",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77876",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77878",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77882",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77883",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77889",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77898",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77899",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bacalar",
+                "ciudad": "Oth\u00f3n P. Blanco",
+                "codigos_postales": [
+                    {
+                        "cp": "77900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77927",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77937",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77946",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "77947",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

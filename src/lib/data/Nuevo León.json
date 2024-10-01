@@ -1,0 +1,4688 @@
+
+    {
+        "estado": "Nuevo Le\u00f3n",
+        "datos": [
+            {
+                "municipio": "Monterrey",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "64000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64049",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64102",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64103",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64109",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64145",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64148",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64157",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64158",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64159",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64218",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64219",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64226",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64227",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64228",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64229",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64245",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64246",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64247",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64248",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64249",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64258",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64264",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64268",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64299",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64339",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64344",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64345",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64348",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64349",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64368",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64369",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64488",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64489",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64508",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64549",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64568",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64619",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64632",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64633",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64637",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64638",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64639",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64649",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64659",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64718",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64764",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64769",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64788",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64798",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64836",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64858",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64859",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64878",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64898",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64909",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64949",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64968",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64978",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64979",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64988",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64989",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64996",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "64997",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "An\u00e1huac",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65001",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65004",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65032",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65033",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65036",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65042",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65057",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65059",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Lampazos de Naranjo",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65075",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65076",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65088",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65092",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mina",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65140",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Bustamante",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65150",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Sabinas Hidalgo",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65243",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65249",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65272",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65276",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65288",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65299",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65302",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65336",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65348",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villaldama",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65395",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Vallecillo",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65419",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65429",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65449",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Par\u00e1s",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65467",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65468",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65477",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Salinas Victoria",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65527",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65528",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65537",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65548",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ci\u00e9nega de Flores",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65556",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65558",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65559",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65562",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65583",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Hidalgo",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65600",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Abasolo",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65654",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Higueras",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65719",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Zuazua",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65783",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Agualeguas",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65808",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65814",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65819",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65836",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65837",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Trevi\u00f1o",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65880",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cerralvo",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65940",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Melchor Ocampo",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "65950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "65958",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Garc\u00eda",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66003",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66004",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66005",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66006",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66007",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66008",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66009",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66012",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66026",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66027",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66035",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66036",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66037",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66042",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66043",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66045",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66046",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66048",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Escobedo",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66051",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66052",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66053",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66054",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66055",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66056",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66057",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66058",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66059",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66061",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66062",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66063",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66064",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66065",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66068",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66072",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66073",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66074",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66075",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66083",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66084",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66085",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Catarina",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66129",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66139",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66145",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66149",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66187",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66189",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66198",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66199",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66356",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66358",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66359",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66362",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66368",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66369",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66374",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66375",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66377",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66378",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66384",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66390",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Pedro Garza Garc\u00eda",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66218",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66219",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66226",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66227",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66228",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66245",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66246",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66247",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66249",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66268",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66273",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66274",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66276",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66285",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66297",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Nicol\u00e1s de los Garza",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66418",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66422",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66428",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66437",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66438",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66445",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66447",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66448",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66449",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66458",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66459",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66466",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66468",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66469",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66475",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66477",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66478",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66479",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66482",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66488",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66489",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66495",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66499",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "El Carmen",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66556",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66583",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Apodaca",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66603",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66612",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66627",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66628",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66629",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66632",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66633",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66637",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66647",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66648",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66649",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pesquer\u00eda",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66657",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66658",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66672",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66679",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66693",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mar\u00edn",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66708",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66715",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Doctor Gonz\u00e1lez",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66757",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66785",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Los Ramones",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66812",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66827",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66842",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66847",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66848",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66849",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Los Herreras",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66861",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66872",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66880",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Los Aldamas",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66945",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Doctor Coss",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "66950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "66980",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Bravo",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67002",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67003",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67004",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67006",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67012",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67030",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "China",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67052",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67066",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67087",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67093",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67097",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67099",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Guadalupe",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67112",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67124",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67129",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67132",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67144",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67153",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67154",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67155",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67173",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67175",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67176",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67182",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67184",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67189",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67192",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67194",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67198",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67199",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67202",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67205",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ju\u00e1rez",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67258",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67262",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67276",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67288",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67298",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santiago",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67302",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67303",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67304",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67307",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67308",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67312",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67317",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67318",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67322",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67327",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67328",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67329",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67337",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67338",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67344",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Allende",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67362",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67374",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67383",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Ter\u00e1n",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67448",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cadereyta Jim\u00e9nez",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67451",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67458",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67459",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67462",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67467",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67469",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67475",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67488",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67492",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67493",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67497",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67498",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67499",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Montemorelos",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67512",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67528",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67541",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67587",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67588",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67589",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67599",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67608",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67611",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67612",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67617",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67618",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67619",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67637",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67639",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67640",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Rayones",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67677",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67690",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Linares",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67756",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67767",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67768",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67769",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67778",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67779",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67802",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67808",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67809",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67812",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67816",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67817",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67819",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67828",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Iturbide",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67836",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67838",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67842",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67847",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67849",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Galeana",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67852",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67853",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67855",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67856",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67857",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67858",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67864",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67866",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67867",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67868",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67872",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67873",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67875",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67876",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67877",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67878",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Hualahuises",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67881",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67884",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67897",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67898",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67899",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Doctor Arroyo",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67908",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67912",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67921",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67922",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67928",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67931",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67932",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67937",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67938",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Aramberri",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67946",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67947",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67948",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67958",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67959",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Zaragoza",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67972",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67975",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67976",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67977",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67978",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mier y Noriega",
+                "ciudad": "Mier y Noriega",
+                "codigos_postales": [
+                    {
+                        "cp": "67980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67982",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "67996",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

@@ -1,0 +1,4442 @@
+
+    {
+        "estado": "Coahuila de Zaragoza",
+        "datos": [
+            {
+                "municipio": "Saltillo",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25022",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25036",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25038",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25043",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25045",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25047",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25048",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25049",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25056",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25057",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25065",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25067",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25068",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25069",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25075",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25076",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25077",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25083",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25084",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25085",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25087",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25088",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25092",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25093",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25094",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25096",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25097",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25124",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25146",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25154",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25155",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25156",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25157",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25194",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25198",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25199",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25208",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25285",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25297",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25298",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25301",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25302",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25303",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25304",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25305",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25306",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25307",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25311",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25317",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25318",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25321",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25322",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25327",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25328",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25329",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25331",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25332",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25335",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25336",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25337",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25338",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25343",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25344",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25345",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25348",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Arteaga",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25352",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25356",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25368",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25369",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25372",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25374",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25375",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25382",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25385",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25386",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25387",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25389",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25393",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25395",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25396",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25398",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25399",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ju\u00e1rez",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25418",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25419",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Progreso",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25428",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25431",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25447",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25463",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Escobedo",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25495",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25496",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Buenaventura",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25508",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25522",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25532",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25536",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Abasolo",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25567",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Candela",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25571",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25576",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25587",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25590",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Frontera",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25617",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25618",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25619",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25627",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25628",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25629",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25668",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25669",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25802",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25823",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Monclova",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25717",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25718",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25724",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25726",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25732",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25743",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25746",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25747",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25748",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25749",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25756",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25757",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25758",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25767",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25768",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25775",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25777",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25796",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25799",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25836",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25847",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25851",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25853",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25855",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25866",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Casta\u00f1os",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25873",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25875",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25876",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25877",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25878",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25879",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25884",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25886",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25887",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25897",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ramos Arizpe",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25908",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25909",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25918",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25927",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25929",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25932",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25937",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25942",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25946",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25947",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Cepeda",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "25950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25952",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25975",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25976",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25977",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25978",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25989",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "25993",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Piedras Negras",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26025",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26033",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26035",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26063",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26064",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26065",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26068",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26069",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26073",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26083",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26085",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26088",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26092",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26093",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26094",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26095",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26096",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26145",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nava",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26172",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26173",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26175",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26176",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26184",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26196",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Acu\u00f1a",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26248",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26249",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26264",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26272",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26282",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26283",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26288",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26299",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26302",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26304",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26305",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26308",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26309",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26328",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "M\u00fazquiz",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26342",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26343",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26344",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26345",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26348",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26356",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26383",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26384",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jim\u00e9nez",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26401",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26409",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26411",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26412",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26429",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26431",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26435",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Zaragoza",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26452",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26467",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26477",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26486",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Morelos",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26526",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Allende",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26532",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26556",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26557",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26566",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26577",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26584",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26593",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26595",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26596",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villa Uni\u00f3n",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26603",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26617",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26627",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26637",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Guerrero",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26659",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Hidalgo",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26695",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Sabinas",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26719",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26729",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26736",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26737",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26739",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26741",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26747",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26748",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26749",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26759",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26763",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26764",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26768",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26769",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26779",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26788",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26799",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26959",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26980",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Juan de Sabinas",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "26800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26809",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26832",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26862",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26875",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26879",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26886",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26908",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26942",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "26943",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Torre\u00f3n",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "27000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27009",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27029",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27053",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27054",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27055",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27056",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27057",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27058",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27059",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27073",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27083",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27084",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27085",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27087",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27088",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27096",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27098",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27103",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27148",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27159",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27199",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27228",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27229",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27258",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27268",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27272",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27273",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27274",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27276",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27297",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27298",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27299",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27309",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27329",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27338",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27349",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27368",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27377",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27397",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27399",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27412",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27422",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27438",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Matamoros",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "27440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27442",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27445",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27447",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27448",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27449",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27452",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27458",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27459",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27466",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27467",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27468",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27475",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27477",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27478",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27479",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Viesca",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "27480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27487",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27488",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27489",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27498",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27499",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ocampo",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "27500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27502",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27508",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27511",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27518",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27521",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27522",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27527",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27528",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27529",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27531",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27532",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27537",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27548",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nadadores",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "27550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27579",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27586",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27587",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27588",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Sierra Mojada",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "27600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27601",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27602",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27603",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27611",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27612",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27618",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27621",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27622",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27627",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cuatro Ci\u00e9negas",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "27640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27642",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27652",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27656",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27657",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27682",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27684",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27689",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27695",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Lamadrid",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "27700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27739",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Sacramento",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "27750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27758",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Pedro",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "27800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27811",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27812",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27822",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27838",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27839",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27847",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27848",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27946",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27948",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27958",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27967",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27975",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27976",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27977",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Francisco I. Madero",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "27900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27908",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27911",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27918",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27927",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27937",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Parras",
+                "ciudad": "Parras",
+                "codigos_postales": [
+                    {
+                        "cp": "27980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27988",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27989",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27991",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27992",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27996",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "27997",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

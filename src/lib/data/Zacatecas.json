@@ -1,0 +1,3350 @@
+
+    {
+        "estado": "Zacatecas",
+        "datos": [
+            {
+                "municipio": "Zacatecas",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98045",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98046",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98047",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98053",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98054",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98056",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98057",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98064",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98065",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98066",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98067",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98068",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98077",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98078",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98079",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98083",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98084",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98085",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98087",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98088",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98097",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98098",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98173",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98175",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98176",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98184",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98186",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Morelos",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98113",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Vetagrande",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98153",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Concepci\u00f3n del Oro",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98211",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98212",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Melchor Ocampo",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98222",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98229",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mazapil",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98241",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98261",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98262",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98264",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98281",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98285",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98287",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "El Salvador",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98297",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Juan Aldama",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98303",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98304",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98306",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98307",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98311",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98317",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98318",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98320",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Miguel Auza",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98336",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98343",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98344",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Francisco R. Murgu\u00eda",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98351",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98368",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98369",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98383",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98387",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98390",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "R\u00edo Grande",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98401",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98419",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98422",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98429",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villa de Cos",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98432",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98445",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98451",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98452",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98471",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98474",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ca\u00f1itas de Felipe Pescador",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98492",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98496",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Calera",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98502",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98508",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98519",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98526",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "P\u00e1nuco",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98541",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98548",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98555",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General Enrique Estrada",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98561",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98584",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Guadalupe",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98608",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98612",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98617",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98618",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98619",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98621",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98631",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98652",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98658",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98659",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Trancoso",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98647",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98648",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Genaro Codina",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98677",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cuauht\u00e9moc",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98684",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98689",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98692",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98693",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98694",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98695",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98696",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98697",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98698",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ojocaliente",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98707",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98712",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98717",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98718",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98724",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98726",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98727",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "General P\u00e1nfilo Natera",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98760",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Luis Moya",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98772",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98775",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98795",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Loreto",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98812",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98816",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98817",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98818",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98827",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98832",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98836",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98837",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98838",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98839",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villa Gonz\u00e1lez Ortega",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98873",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Noria de \u00c1ngeles",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98884",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98887",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98888",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98894",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villa Garc\u00eda",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98918",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98919",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pinos",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98921",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98931",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98941",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98942",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98951",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98959",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98961",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98962",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98969",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98971",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98972",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98979",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villa Hidalgo",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "98980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98982",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98988",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "98995",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Fresnillo",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99011",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99033",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99036",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99049",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99054",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99055",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99056",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99084",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99094",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99095",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99154",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99155",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99156",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99158",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99159",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99176",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99189",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99192",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99193",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99194",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99198",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99199",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Sombrerete",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99102",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99103",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99109",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99121",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99129",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Sain Alto",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99132",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99141",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99143",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99144",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Valpara\u00edso",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99201",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99202",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99208",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99227",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99231",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99243",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99245",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99246",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99247",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99252",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99258",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99259",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Chalchihuites",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99273",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99279",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jim\u00e9nez del Teul",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99283",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99288",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99293",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jerez",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99311",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99312",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99322",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99342",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99343",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99344",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99352",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99362",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99363",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99379",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99382",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99392",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99393",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99442",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99447",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99458",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99466",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99467",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99468",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99469",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99471",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99478",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99479",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Monte Escobedo",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99436",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Susticac\u00e1n",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99484",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villanueva",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99542",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99552",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99559",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99563",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tepetongo",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99581",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99583",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99584",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99585",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "El Plateado de Joaqu\u00edn Amaro",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99592",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99593",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99598",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jalpa",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99602",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99603",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99608",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99618",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99622",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99626",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tabasco",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99656",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huanusco",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99678",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99684",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99685",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99686",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99687",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99689",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tlaltenango de S\u00e1nchez Rom\u00e1n",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99707",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99709",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99715",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Momax",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99726",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Atolinga",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99736",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tepechitl\u00e1n",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99763",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99773",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Benito Ju\u00e1rez",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99784",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99786",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99794",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Te\u00fal de Gonz\u00e1lez Ortega",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99814",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Mar\u00eda de la Paz",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99827",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99828",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Trinidad Garc\u00eda de la Cadena",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99855",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Mezquital del Oro",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99862",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99864",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99867",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99875",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Nochistl\u00e1n de Mej\u00eda",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99908",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99909",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99911",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99912",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99918",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99919",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Apulco",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99921",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99937",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Apozol",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99949",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99957",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Juchipila",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99969",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99979",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Moyahua de Estrada",
+                "ciudad": "Moyahua de Estrada",
+                "codigos_postales": [
+                    {
+                        "cp": "99980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99997",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "99998",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

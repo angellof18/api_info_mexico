@@ -1,0 +1,2174 @@
+
+    {
+        "estado": "Quer\u00e9taro",
+        "datos": [
+            {
+                "municipio": "Quer\u00e9taro",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76025",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76027",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76028",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76036",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76037",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76046",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76047",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76048",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76049",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76057",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76058",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76059",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76063",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76067",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76069",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76074",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76079",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76085",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76087",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76093",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76121",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76139",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76144",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76146",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76148",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76149",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76154",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76155",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76156",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76157",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76158",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76159",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76175",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76176",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76199",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76211",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76212",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76213",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76218",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76219",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76221",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76226",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76227",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76228",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76229",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76238",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "El Marqu\u00e9s",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76243",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76245",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76246",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76247",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76248",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76249",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76251",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76252",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76258",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76261",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76262",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76264",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76268",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76269",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Col\u00f3n",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76272",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76274",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76276",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76281",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76282",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76283",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76288",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76297",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76298",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76299",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pinal de Amoles",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76309",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76317",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76318",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76319",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76321",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76327",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76335",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76336",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76337",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jalpan de Serra",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76342",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76344",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76345",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76348",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76356",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76358",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76359",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Landa de Matamoros",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76368",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76372",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76378",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76379",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76382",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76383",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76384",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76385",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76386",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76388",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76392",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76393",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76394",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76395",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76396",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76399",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Arroyo Seco",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76401",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76402",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76411",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76421",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76440",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pe\u00f1amiller",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76471",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76477",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76478",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76489",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76492",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76493",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76495",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76499",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cadereyta de Montes",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76527",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76528",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76529",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76537",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76538",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76539",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76548",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Joaqu\u00edn",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76556",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76557",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76558",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76566",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76568",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76575",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tolim\u00e1n",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76617",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76618",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76627",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76628",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76631",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76632",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76633",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76637",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76647",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76649",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ezequiel Montes",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76651",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76656",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76657",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76677",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76681",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76685",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76686",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76687",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76688",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76693",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76694",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76697",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pedro Escobedo",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76707",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76708",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76709",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76721",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76722",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76724",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76726",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76729",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76741",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76743",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76746",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tequisquiapan",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76756",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76757",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76774",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76775",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76781",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76786",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76791",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76795",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76796",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76799",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Juan del R\u00edo",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76809",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76812",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76814",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76821",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76827",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76828",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76829",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76837",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76838",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76842",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76847",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76848",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76849",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Amealco de Bonfil",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76861",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76862",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76875",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76876",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76877",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76878",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76879",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76883",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76884",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76886",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76887",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76888",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76889",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76897",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Corregidora",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76908",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76912",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76922",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76927",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76928",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76930",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huimilpan",
+                "ciudad": "Huimilpan",
+                "codigos_postales": [
+                    {
+                        "cp": "76950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76951",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76952",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76958",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76975",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76976",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76981",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76992",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76997",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "76998",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

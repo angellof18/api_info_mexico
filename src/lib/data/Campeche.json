@@ -1,0 +1,1144 @@
+
+    {
+        "estado": "Campeche",
+        "datos": [
+            {
+                "municipio": "Campeche",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24022",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24025",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24026",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24027",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24028",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24029",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24035",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24036",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24037",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24038",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24039",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24044",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24049",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24058",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24069",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24073",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24075",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24079",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24083",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24084",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24085",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24087",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24088",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24093",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24094",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24095",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24096",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24097",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24098",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24522",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24532",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24537",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24552",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24557",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24561",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24562",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24572",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24575",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Carmen",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24129",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24139",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24153",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24154",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24155",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24156",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24157",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24158",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24187",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24189",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24198",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24199",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24317",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24322",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24323",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24326",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24327",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Palizada",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24208",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Candelaria",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24335",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24336",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24337",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24338",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24342",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24343",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24344",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24345",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24347",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24348",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Esc\u00e1rcega",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24356",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24358",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24367",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24368",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24369",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24372",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24374",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24375",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24376",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24377",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Champot\u00f3n",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24402",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24411",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24418",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24419",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24421",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24441",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24451",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24459",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Seybaplaya",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24462",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24464",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Hopelch\u00e9n",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24607",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24609",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24611",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24612",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24622",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24663",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24668",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24670",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Calakmul",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24647",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24648",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24656",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24658",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tenabo",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24707",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24732",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24746",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Hecelchak\u00e1n",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24828",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24831",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24836",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24837",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24839",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24863",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Calkin\u00ed",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24902",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24919",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24940",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Dzitbalch\u00e9",
+                "ciudad": "Calkin\u00ed",
+                "codigos_postales": [
+                    {
+                        "cp": "24920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "24929",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }

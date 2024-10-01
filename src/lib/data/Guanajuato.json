@@ -1,0 +1,5758 @@
+
+    {
+        "estado": "Guanajuato",
+        "datos": [
+            {
+                "municipio": "Guanajuato",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36003",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36023",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36033",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36043",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36044",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36053",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36089",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36093",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36094",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36227",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36228",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36243",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36245",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36246",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36247",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36258",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36264",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36268",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Silao de la Victoria",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36112",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36122",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36129",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36132",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36142",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36143",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36149",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36155",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36156",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36158",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36159",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36169",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36172",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36273",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36274",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36275",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36276",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36283",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36284",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36285",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36286",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36288",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36297",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36298",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Romita",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36212",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36213",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36218",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Francisco del Rinc\u00f3n",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36312",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36313",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36322",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36342",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36352",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36354",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36361",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36365",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36369",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36370",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36372",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36394",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36441",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36445",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36447",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36452",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36458",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36459",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36462",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36466",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36467",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36468",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pur\u00edsima del Rinc\u00f3n",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36418",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36437",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Manuel Doblado",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36475",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36477",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36487",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36493",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36495",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36497",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Irapuato",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36511",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36512",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36541",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36542",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36546",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36556",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36557",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36558",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36559",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36566",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36568",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36576",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36577",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36578",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36583",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36584",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36585",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36586",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36587",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36588",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36589",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36593",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36595",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36597",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36599",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36611",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36612",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36626",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36631",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36633",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36648",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36649",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36659",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36668",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36669",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36687",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36691",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36698",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36699",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36814",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36815",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36816",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36817",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36818",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36821",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36822",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36827",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36836",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36837",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36847",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36849",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Salamanca",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36717",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36722",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36723",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36724",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36726",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36732",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36743",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36744",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36747",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36748",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36749",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36752",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36759",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36764",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36774",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36775",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36777",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36778",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36782",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36784",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36786",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36787",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36853",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36855",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36856",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36857",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36858",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36864",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36866",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36867",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36873",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36875",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36876",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36877",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36878",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36883",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36884",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36886",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36887",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36888",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Pueblo Nuevo",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36897",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "P\u00e9njamo",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36927",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36937",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36938",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36946",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36947",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36948",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cuer\u00e1maro",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36967",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36968",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36969",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Abasolo",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36975",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36976",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36977",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36987",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Huan\u00edmaro",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "36990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36996",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36997",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "36998",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Le\u00f3n",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37004",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37107",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37108",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37109",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37118",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37128",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37129",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37138",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37148",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37149",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37156",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37157",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37178",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37179",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37187",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37189",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37199",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37208",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37209",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37218",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37219",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37227",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37230",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37233",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37234",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37235",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37236",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37237",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37238",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37239",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37249",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37257",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37258",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37259",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37266",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37267",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37268",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37270",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37276",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37277",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37278",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37279",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37287",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37288",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37289",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37295",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37296",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37297",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37298",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37299",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37306",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37316",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37317",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37318",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37319",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37327",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37328",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37340",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37353",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37355",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37358",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37359",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37364",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37366",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37368",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37369",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37380",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37399",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37408",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37419",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37428",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37438",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37439",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37444",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37448",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37458",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37459",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37468",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37477",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37478",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37479",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37487",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37538",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37539",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37547",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37548",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37549",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37557",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37566",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37655",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37665",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37666",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37667",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37668",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37669",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37677",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37684",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37685",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37686",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37687",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37688",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37689",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37690",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37693",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37696",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37697",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37698",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Felipe",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37603",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37604",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37605",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37606",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37611",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37615",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37616",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37625",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ocampo",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37631",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37632",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37634",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37635",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37636",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37641",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37642",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37643",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37644",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37645",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37646",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37647",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Miguel de Allende",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37717",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37718",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37727",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37728",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37729",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37732",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37736",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37737",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37738",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37745",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37746",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37747",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37748",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37749",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37756",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37759",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37769",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37774",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37775",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37777",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37795",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37796",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37797",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37883",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37884",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37885",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37886",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37887",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37888",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37890",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37892",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37893",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37894",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37895",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37896",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37897",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37898",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Dolores Hidalgo Cuna de la Independencia Nacional",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37803",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37804",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37805",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37806",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37807",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37813",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37814",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37816",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37817",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37819",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37821",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37824",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37828",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37829",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37832",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37838",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37842",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37843",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37846",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37848",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37849",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Diego de la Uni\u00f3n",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37853",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37855",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37856",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37857",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37864",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37866",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37867",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37873",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37875",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37876",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37877",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Luis de la Paz",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37906",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37907",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37913",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37916",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37917",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37918",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37919",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Victoria",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37923",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37924",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37925",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37926",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37927",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37928",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Xich\u00fa",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37932",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37933",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37934",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37935",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37936",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37937",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37938",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37939",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Atarjea",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37946",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37947",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37948",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Catarina",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37958",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Doctor Mora",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37967",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tierra Blanca",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37975",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37976",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37977",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37978",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "San Jos\u00e9 Iturbide",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "37980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37988",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37991",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37996",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37997",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "37998",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Celaya",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38000",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38010",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38013",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38014",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38015",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38016",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38017",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38018",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38019",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38020",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38024",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38027",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38028",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38030",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38033",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38034",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38035",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38036",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38037",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38040",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38046",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38047",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38048",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38050",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38057",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38060",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38063",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38065",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38067",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38068",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38070",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38078",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38079",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38080",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38085",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38086",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38088",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38090",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38094",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38095",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38096",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38097",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38098",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38099",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38100",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38104",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38105",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38106",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38110",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38113",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38114",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38115",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38116",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38117",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38119",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38120",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38123",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38124",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38125",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38126",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38127",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38130",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38133",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38134",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38135",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38136",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38137",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38140",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38143",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38144",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38145",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38146",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38147",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38150",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38152",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38153",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38154",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38155",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38156",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38157",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38158",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38159",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Apaseo el Grande",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38160",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38163",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38164",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38165",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38166",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38167",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38168",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38170",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38173",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38174",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38175",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38176",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38177",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38180",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38183",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38184",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38185",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38186",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38187",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38188",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38190",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38194",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38195",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38196",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38197",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38198",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38199",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Comonfort",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38200",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38202",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38203",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38204",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38205",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38206",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38207",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38210",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38213",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38214",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38215",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38216",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38217",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38220",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38223",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38224",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38225",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38226",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38227",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santa Cruz de Juventino Rosas",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38240",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38243",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38244",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38245",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38246",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38247",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38250",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38253",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38254",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38255",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38256",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38257",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Villagr\u00e1n",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38260",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38263",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38265",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38269",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38271",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38272",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38273",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38280",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38290",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38291",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38293",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38294",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38295",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Cortazar",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38300",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38309",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38310",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38312",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38314",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38315",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38317",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38320",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38322",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38324",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38325",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38329",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38330",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38332",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38333",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38334",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38335",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38337",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38338",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38342",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38344",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38345",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38346",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38349",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38350",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38356",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38357",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38358",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38359",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38360",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38362",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38373",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38374",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38383",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38390",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38395",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38490",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38493",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38494",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38495",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38496",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38497",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38498",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38499",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Valle de Santiago",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38400",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38403",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38404",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38405",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38406",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38407",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38410",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38413",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38414",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38415",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38416",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38417",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38420",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38423",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38424",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38425",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38426",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38427",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38430",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38433",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38434",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38435",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38436",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38437",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38440",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38443",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38445",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38446",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38447",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38450",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38453",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38454",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38455",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38456",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38457",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38460",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38463",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38464",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38465",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38466",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38467",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jaral del Progreso",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38470",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38473",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38474",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38475",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38476",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38477",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38480",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38483",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38484",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38485",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38486",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38487",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38488",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Apaseo el Alto",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38500",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38503",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38504",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38505",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38506",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38507",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38510",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38513",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38514",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38515",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38516",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38517",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38520",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38523",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38524",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38525",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38526",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38527",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38530",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38533",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38534",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38535",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38536",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38537",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Jer\u00e9cuaro",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38540",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38542",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38543",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38544",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38545",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38550",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38553",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38554",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38555",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38556",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38557",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38560",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38563",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38564",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38565",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38566",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38567",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38570",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38573",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38574",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38575",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38576",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38577",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38578",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38580",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38583",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38584",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38585",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38586",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38587",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Coroneo",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38590",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38593",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38594",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38595",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38596",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38597",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Ac\u00e1mbaro",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38600",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38610",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38612",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38613",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38614",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38620",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38623",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38624",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38625",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38630",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38640",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38642",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38650",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38652",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38653",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38654",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38660",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38664",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38670",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38672",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38673",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38674",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38675",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38676",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38679",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38680",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38683",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38689",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38730",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38733",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38734",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38735",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38736",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38737",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38740",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38743",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38745",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38747",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38750",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38753",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38754",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38755",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38756",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38757",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38760",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38763",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38764",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38765",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38766",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38767",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38770",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38773",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38776",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38777",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38780",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38783",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38784",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38785",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38786",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38787",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tarimoro",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38700",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38701",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38702",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38703",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38704",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38705",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38706",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38708",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38709",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38710",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38712",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38713",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38714",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38715",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38716",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38717",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38720",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38724",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38725",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38727",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Tarandacuao",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38790",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38793",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38794",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38795",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38796",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38797",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38798",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Morole\u00f3n",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38800",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38810",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38817",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38820",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38823",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38825",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38826",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38827",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38830",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38833",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38834",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38835",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38836",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38837",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38838",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38840",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38844",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38845",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38848",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38850",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38853",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38854",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38855",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38860",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38863",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38864",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38865",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38866",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38867",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38868",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38870",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38873",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38874",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38880",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38887",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38990",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38993",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38994",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38995",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38996",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38997",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Salvatierra",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38900",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38903",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38904",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38905",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38909",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38910",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38911",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38912",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38914",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38915",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38919",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38920",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38921",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38927",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38930",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38931",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38932",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38933",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Yuriria",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38940",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38943",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38944",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38945",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38946",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38947",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38950",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38953",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38954",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38955",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38956",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38957",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38958",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38960",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38961",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38963",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38964",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38965",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38966",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38967",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Santiago Maravat\u00edo",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38970",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38973",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38974",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38975",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38977",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38978",
+                        "localidad": ""
+                    }
+                ]
+            },
+            {
+                "municipio": "Uriangato",
+                "ciudad": "Morole\u00f3n",
+                "codigos_postales": [
+                    {
+                        "cp": "38980",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38982",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38983",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38984",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38985",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38986",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38987",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38988",
+                        "localidad": ""
+                    },
+                    {
+                        "cp": "38989",
+                        "localidad": ""
+                    }
+                ]
+            }
+        ]
+    }
