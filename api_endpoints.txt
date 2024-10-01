@@ -1,0 +1,5 @@
+/api/estados
+/api/estados/[estado]
+/api/estados/[estado]/municipios
+/api/estados/[estado]/municipios/[municipio]/localidades
+/api/estados/[estado]/municipios/[municipio]/cp
