@@ -2,17 +2,17 @@ import { json } from '@sveltejs/kit';
 import estados from '$lib/data.json'; // Cargar el archivo JSON
 
 export function GET({ params }) {
-    const { estado, municipio } = params;
+    const { id, municipioId } = params;
 
-    // Buscar el estado por su nombre
-    const estadoData = estados.find(e => e.ENTIDAD_FEDERATIVA.toLowerCase() === estado.toLowerCase());
+    // Convertir el parámetro a número y buscar el estado por EFE_KEY
+    const estadoData = estados.find(e => e.EFE_KEY === parseInt(id));
 
     if (!estadoData) {
         return new Response('Estado no encontrado', { status: 404 });
     }
 
-    // Buscar el municipio por su nombre
-    const municipioData = estadoData.MUNICIPIOS.find(m => m.MUNICIPIO.toLowerCase() === municipio.toLowerCase());
+    // Buscar el municipio por MUN_KEY
+    const municipioData = estadoData.MUNICIPIOS.find(m => m.MUN_KEY === parseInt(municipioId));
 
     if (!municipioData) {
         return new Response('Municipio no encontrado', { status: 404 });
