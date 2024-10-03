@@ -1,5 +1,4 @@
-/api/estados
-/api/estados/[estado]
-/api/estados/[estado]/municipios
-/api/estados/[estado]/municipios/[municipio]/localidades
-/api/estados/[estado]/municipios/[municipio]/cp
+ESTADOS => /api/estados
+INFO ESTADO => /api/estados/[idEstado]
+MUNICIPIOS => /api/estados/[idEstado]/municipios
+LOCALIDADES => /api/estados/[idEstado]/municipios/[idMunicipio]/localidades
