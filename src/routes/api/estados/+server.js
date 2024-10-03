@@ -1,20 +1,13 @@
-// src/routes/api/estados/+server.js
-import fs from 'fs';
-import path from 'path';
+import { json } from '@sveltejs/kit';
+import estados from '$lib/data.json'; // Cargar el archivo JSON
 
-export async function GET() {
-    const dataPath = path.resolve('src/lib/data'); // Ajusta la ruta según donde almacenes tus JSON
-    const files = fs.readdirSync(dataPath);
-    const estados = files.map(file => {
-        const estado = file.replace('.json', '').replace(/_/g, ' '); // Reemplaza guiones bajos por espacios
-        return {
-            estado: estado,
-            url: `/api/estados/${estado.replace(/ /g, '_')}` // Reemplaza espacios por guiones bajos en la URL
-        };
-    });
+export function GET() {
+	// Extraer solo la información de los estados
+	const estadosList = estados.map((estado) => ({
+		EFE_KEY: estado.EFE_KEY,
+		ENTIDAD_FEDERATIVA: estado.ENTIDAD_FEDERATIVA,
+		ABREVIATURA: estado.ABREVIATURA
+	}));
 
-    return new Response(JSON.stringify({ estados }), {
-        status: 200,
-        headers: { 'Content-Type': 'application/json' }
-    });
+	return json(estadosList);
 }

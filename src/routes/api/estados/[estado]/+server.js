@@ -1,22 +1,15 @@
-// src/routes/api/estados/[estado]/+server.js
-import fs from 'fs';
-import path from 'path';
+import { json } from '@sveltejs/kit';
+import estados from '$lib/data.json'; // Cargar el archivo JSON
 
-export async function GET({ params }) {
-    const estado = params.estado.replace(/_/g, ' '); // Reemplaza guiones bajos por espacios
-    const filePath = path.resolve('src/lib/data', `${estado}.json`);
+export function GET({ params }) {
+    const { estado } = params;
+    
+    // Buscar el estado por su nombre
+    const estadoData = estados.find(e => e.ENTIDAD_FEDERATIVA.toLowerCase() === estado.toLowerCase());
 
-    if (!fs.existsSync(filePath)) {
-        return new Response(JSON.stringify({ error: 'Estado no encontrado' }), {
-            status: 404,
-            headers: { 'Content-Type': 'application/json' }
-        });
+    if (!estadoData) {
+        return new Response('Estado no encontrado', { status: 404 });
     }
 
-    const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-    
-    return new Response(JSON.stringify(data), {
-        status: 200,
-        headers: { 'Content-Type': 'application/json' }
-    });
+    return json(estadoData);
 }

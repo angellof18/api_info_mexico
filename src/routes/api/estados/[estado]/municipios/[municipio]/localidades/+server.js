@@ -1,38 +1,28 @@
-import fs from 'fs';
-import path from 'path';
+import { json } from '@sveltejs/kit';
+import estados from '$lib/data.json'; // Cargar el archivo JSON
 
-export async function GET({ params }) {
-    const estado = params.estado.replace(/_/g, ' ');
-    const municipio = params.municipio.replace(/_/g, ' ');
-    const filePath = path.resolve('src/lib/data', `${estado}.json`);
+export function GET({ params }) {
+    const { estado, municipio } = params;
 
-    if (!fs.existsSync(filePath)) {
-        return new Response(JSON.stringify({ error: 'Estado no encontrado' }), {
-            status: 404,
-            headers: { 'Content-Type': 'application/json' }
-        });
+    // Buscar el estado por su nombre
+    const estadoData = estados.find(e => e.ENTIDAD_FEDERATIVA.toLowerCase() === estado.toLowerCase());
+
+    if (!estadoData) {
+        return new Response('Estado no encontrado', { status: 404 });
     }
 
-    // Leer y parsear el archivo JSON
-    const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-
-    // Buscar el municipio en los datos del estado
-    const municipioData = data.datos.find(item => item.municipio === municipio);
+    // Buscar el municipio por su nombre
+    const municipioData = estadoData.MUNICIPIOS.find(m => m.MUNICIPIO.toLowerCase() === municipio.toLowerCase());
 
     if (!municipioData) {
-        return new Response(JSON.stringify({ error: 'Municipio no encontrado' }), {
-            status: 404,
-            headers: { 'Content-Type': 'application/json' }
-        });
+        return new Response('Municipio no encontrado', { status: 404 });
     }
 
-    // Extraer localidades de los códigos postales
-    const localidades = municipioData.codigos_postales
-        .map(cp => cp.localidad)
-        .filter(localidad => localidad !== ''); // Filtrar localidades no vacías
+    // Extraer solo las localidades
+    const localidadesList = municipioData.LOCALIDADES.map((localidad) => ({
+        LOCAL_KEY: localidad.LOCAL_KEY,
+        LOCALIDAD: localidad.LOCALIDAD
+    }));
 
-    return new Response(JSON.stringify(localidades), {
-        status: 200,
-        headers: { 'Content-Type': 'application/json' }
-    });
+    return json(localidadesList);
 }

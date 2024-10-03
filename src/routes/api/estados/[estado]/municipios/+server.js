@@ -1,35 +1,21 @@
-// src/routes/api/estados/[estado]/municipios/+server.js
-import fs from 'fs';
-import path from 'path';
+import { json } from '@sveltejs/kit';
+import estados from '$lib/data.json'; // Cargar el archivo JSON
 
-export async function GET({ params }) {
-    const estado = params.estado.replace(/_/g, ' '); // Reemplazar guiones bajos por espacios
-    const filePath = path.resolve('src/lib/data', `${estado}.json`);
+export function GET({ params }) {
+    const { estado } = params;
 
-    if (!fs.existsSync(filePath)) {
-        return new Response(JSON.stringify({ error: 'Estado no encontrado' }), {
-            status: 404,
-            headers: { 'Content-Type': 'application/json' }
-        });
+    // Buscar el estado por su nombre
+    const estadoData = estados.find(e => e.ENTIDAD_FEDERATIVA.toLowerCase() === estado.toLowerCase());
+
+    if (!estadoData) {
+        return new Response('Estado no encontrado', { status: 404 });
     }
 
-    // Leer y parsear el archivo JSON
-    const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    // Extraer solo los municipios
+    const municipiosList = estadoData.MUNICIPIOS.map((municipio) => ({
+        MUN_KEY: municipio.MUN_KEY,
+        MUNICIPIO: municipio.MUNICIPIO
+    }));
 
-    // Asegurarse de que el archivo contiene la estructura correcta
-    if (!data || !data.datos || !Array.isArray(data.datos)) {
-        return new Response(JSON.stringify({ error: 'Datos no válidos en el archivo JSON' }), {
-            status: 500,
-            headers: { 'Content-Type': 'application/json' }
-        });
-    }
-
-    // Extraer municipios únicos
-    const municipios = data.datos.map(item => item.municipio);
-    const uniqueMunicipios = Array.from(new Set(municipios)); // Filtrar municipios únicos
-
-    return new Response(JSON.stringify(uniqueMunicipios), {
-        status: 200,
-        headers: { 'Content-Type': 'application/json' }
-    });
+    return json(municipiosList);
 }
