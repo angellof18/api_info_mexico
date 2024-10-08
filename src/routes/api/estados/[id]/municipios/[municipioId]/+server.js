@@ -22,8 +22,8 @@ export function GET({ params }) {
 	}
 
 	const responseData = {
-		id: municipio.MUN_KEY,
-		nombre: municipio.MUNICIPIO
+		MUN_KEY: municipio.MUN_KEY,
+		MUNICIPIO: municipio.MUNICIPIO
 	};
 
 	return new Response(JSON.stringify(responseData), {
