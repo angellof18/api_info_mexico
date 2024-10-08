@@ -1,4 +1,3 @@
-import { json } from '@sveltejs/kit';
 import estados from '$lib/data.json'; // Cargar el archivo JSON
 
 export function GET() {
@@ -9,5 +8,12 @@ export function GET() {
 		ABREVIATURA: estado.ABREVIATURA
 	}));
 
-	return json(estadosList);
+	//	return json(estadosList);
+
+	return new Response(JSON.stringify(estadosList), {
+		headers: {
+			'Content-Type': 'application/json',
+			'Access-Control-Allow-Origin': ''
+		}
+	});
 }
