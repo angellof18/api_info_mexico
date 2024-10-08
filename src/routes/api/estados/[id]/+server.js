@@ -13,7 +13,7 @@ export function GET({ params }) {
 	return new Response(JSON.stringify(estadoData), {
 		headers: {
 			'Content-Type': 'application/json',
-			'Access-Control-Allow-Origin': ''
+			'Access-Control-Allow-Origin': '*'
 		}
 	});
 }
